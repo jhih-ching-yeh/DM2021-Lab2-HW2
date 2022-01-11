@@ -1,5 +1,5 @@
 # DM2021-Lab2-HW2
-### Part 1 is at DM2021-Lab2-Homework.ipynb
+## Part 1 is at DM2021-Lab2-Homework.ipynb
 #### Table of Contents
 1. Data preparation
     * Exercise 1 (Take home)
@@ -20,8 +20,7 @@
     * Exercise 8 (Take home)
 
 ---
-
-### Part 2, Part 3 are at Kaggle_Competition.ipynb
+## Part 2, Part 3 are at Kaggle_Competition.ipynb
 #### Table of Contents
 1. Read Data
 2. Data Exploration: Hashtag>>Emotion
