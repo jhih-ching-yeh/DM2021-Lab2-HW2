@@ -4,14 +4,6 @@
 ## Table of Contents
 1. Read Data
 2. Data Exploration: Hashtag>>Emotion
-    - Anger Hashtag
-    - Anticipation Hashtag
-    - Disgust Hashtag
-    - Fear Hashtag
-    - Sadness Hashtag
-    - Surprise Hashtag
-    - Trust Hashtag
-    - Joy Hashtag
 3. Data Exploration: Emoji>>Emotion
 4. Bert Model
     - Data preprocessing
