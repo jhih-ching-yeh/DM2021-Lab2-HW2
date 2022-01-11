@@ -19,7 +19,7 @@
 9. High-dimension Visualization
     * Exercise 8 (Take home)
 
---
+
 ## Part 2, Part 3 are at Kaggle_Competition.ipynb
 #### Table of Contents
 1. Read Data
