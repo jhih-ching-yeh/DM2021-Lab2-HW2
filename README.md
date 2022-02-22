@@ -21,6 +21,7 @@
 
 
 ## Part 2, Part 3 are at Kaggle_Competition.ipynb
+https://www.kaggle.com/c/dm2021-lab2-hw2/overview
 #### Table of Contents
 1. Read Data
 2. Data Exploration: Hashtag>>Emotion
